@@ -1,0 +1,601 @@
+membership_id,visits,visits_last_30_days,favorite_bird,number_of_birds_seen,shirt_size
+1,131,0,ruddy duck,11904,2XL
+2,295,0,superb starling,6336,XS
+3,291,5,eurasian eagle owl,5151,S
+4,386,7,eurasian eagle owl,8311,3XL
+5,163,0,black-crowned night heron,10683,2XL
+6,259,5,Hooded Merganser,10401,S
+7,341,1,scarlet ibis,10057,3XL
+8,270,6,superb starling,10545,3XL
+9,254,8,superb starling,5958,3XL
+10,140,2,scarlet ibis,11506,3XL
+11,158,7,scarlet ibis,3685,XS
+12,57,2,sandhill crane,6707,2XL
+13,162,2,superb starling,1493,2XL
+14,118,0,scarlet ibis,7308,S
+15,318,5,superb starling,806,2XL
+16,59,6,tawny frogmouth,6638,M
+17,246,4,ruddy duck,2844,3XL
+18,148,4,eurasian eagle owl,10599,S
+19,309,5,scarlet ibis,9881,M
+20,231,3,tawny frogmouth,4702,S
+21,87,8,sandhill crane,3628,M
+22,235,6,eurasian eagle owl,10550,XL
+23,259,5,Hooded Merganser,912,2XL
+24,277,0,scarlet ibis,2867,M
+25,147,2,Hooded Merganser,8920,XL
+26,335,5,tawny frogmouth,11651,M
+27,381,5,tawny frogmouth,2528,S
+28,42,5,scarlet ibis,10993,2XL
+29,97,0,black-crowned night heron,1213,S
+30,169,9,superb starling,2029,S
+31,59,5,tawny frogmouth,8154,L
+32,164,4,Hooded Merganser,3491,XS
+33,346,7,tawny frogmouth,786,L
+34,158,3,superb starling,7221,XL
+35,328,5,scarlet ibis,11900,XS
+36,93,4,ruddy duck,2540,M
+37,265,4,Hooded Merganser,10160,3XL
+38,286,8,scarlet ibis,1647,2XL
+39,36,4,superb starling,723,XS
+40,137,7,ruddy duck,9647,3XL
+41,371,9,ruddy duck,4729,S
+42,167,0,scarlet ibis,3360,XS
+43,324,3,Hooded Merganser,6959,L
+44,159,3,scarlet ibis,8701,2XL
+45,131,6,tawny frogmouth,7989,M
+46,286,8,black-crowned night heron,9809,3XL
+47,88,8,tawny frogmouth,6197,S
+48,39,6,Hooded Merganser,4496,2XL
+49,369,1,tawny frogmouth,7134,XL
+50,204,2,superb starling,978,3XL
+51,142,3,ruddy duck,7300,S
+52,322,3,Hooded Merganser,4309,S
+53,125,1,sandhill crane,9884,M
+54,206,9,scarlet ibis,2520,XL
+55,253,6,Hooded Merganser,10884,M
+56,126,1,sandhill crane,2196,M
+57,69,0,ruddy duck,4717,3XL
+58,127,0,ruddy duck,2397,3XL
+59,372,2,superb starling,9871,S
+60,396,7,eurasian eagle owl,3665,L
+61,87,4,eurasian eagle owl,5753,2XL
+62,382,8,sandhill crane,1908,XL
+63,350,1,ruddy duck,9266,L
+64,256,7,superb starling,9410,M
+65,108,8,black-crowned night heron,11841,L
+66,338,7,ruddy duck,5827,XS
+67,319,1,tawny frogmouth,793,2XL
+68,243,0,superb starling,3743,3XL
+69,344,2,black-crowned night heron,7666,L
+70,257,4,tawny frogmouth,10109,L
+71,188,5,ruddy duck,792,XL
+72,124,3,tawny frogmouth,6227,M
+73,254,4,black-crowned night heron,6620,S
+74,102,0,sandhill crane,7476,3XL
+75,97,6,scarlet ibis,1222,XS
+76,240,5,ruddy duck,1874,3XL
+77,25,2,tawny frogmouth,3721,S
+78,329,0,scarlet ibis,5636,L
+79,118,3,eurasian eagle owl,4814,S
+80,74,9,eurasian eagle owl,4092,L
+81,34,8,eurasian eagle owl,1476,S
+82,187,2,scarlet ibis,4155,XS
+83,147,7,superb starling,7130,L
+84,369,9,Hooded Merganser,8943,XL
+85,157,7,tawny frogmouth,1344,2XL
+86,396,1,scarlet ibis,7045,2XL
+87,302,2,tawny frogmouth,7180,2XL
+88,249,4,sandhill crane,3998,3XL
+89,223,6,superb starling,1588,L
+90,168,2,eurasian eagle owl,10549,2XL
+91,125,9,sandhill crane,1342,S
+92,92,7,sandhill crane,3265,3XL
+93,329,1,sandhill crane,6787,XS
+94,330,7,sandhill crane,9094,XS
+95,367,6,ruddy duck,11438,3XL
+96,343,1,eurasian eagle owl,9129,M
+97,289,8,Hooded Merganser,3776,XL
+98,295,4,black-crowned night heron,8530,XS
+99,202,6,sandhill crane,11994,XL
+100,172,3,Hooded Merganser,521,XS
+101,193,4,Hooded Merganser,3908,XL
+102,203,9,Hooded Merganser,7285,XL
+103,213,2,ruddy duck,3349,XS
+104,107,8,black-crowned night heron,5509,3XL
+105,339,3,Hooded Merganser,9739,XS
+106,40,6,ruddy duck,9330,S
+107,121,5,superb starling,3278,L
+108,58,8,eurasian eagle owl,9576,XS
+109,82,3,black-crowned night heron,5299,2XL
+110,203,7,sandhill crane,8598,XL
+111,302,3,eurasian eagle owl,10610,2XL
+112,238,4,eurasian eagle owl,6250,XS
+113,54,2,Hooded Merganser,9064,L
+114,298,4,ruddy duck,8880,S
+115,382,4,black-crowned night heron,2468,2XL
+116,296,9,Hooded Merganser,4325,XS
+117,196,8,eurasian eagle owl,2086,XL
+118,34,9,sandhill crane,5106,M
+119,54,2,tawny frogmouth,3375,XS
+120,326,2,scarlet ibis,9632,S
+121,153,0,black-crowned night heron,6420,2XL
+122,168,8,superb starling,8372,XL
+123,37,4,superb starling,1614,XS
+124,185,2,superb starling,11986,L
+125,206,0,scarlet ibis,7646,XL
+126,315,8,scarlet ibis,2588,S
+127,47,9,Hooded Merganser,11581,XL
+128,290,2,black-crowned night heron,6782,M
+129,227,8,scarlet ibis,1400,S
+130,136,9,ruddy duck,9294,3XL
+131,87,2,sandhill crane,4735,L
+132,263,5,ruddy duck,1741,XL
+133,323,5,scarlet ibis,9594,3XL
+134,364,8,tawny frogmouth,9459,M
+135,20,9,sandhill crane,8773,L
+136,142,2,eurasian eagle owl,1793,M
+137,209,4,tawny frogmouth,11639,S
+138,224,5,superb starling,9133,S
+139,134,5,black-crowned night heron,10136,S
+140,90,7,tawny frogmouth,2966,M
+141,392,1,black-crowned night heron,5444,L
+142,97,0,scarlet ibis,2888,2XL
+143,396,7,tawny frogmouth,9560,M
+144,263,8,black-crowned night heron,10230,XL
+145,357,7,eurasian eagle owl,2779,M
+146,280,0,black-crowned night heron,10849,XS
+147,151,1,superb starling,1279,XS
+148,164,6,Hooded Merganser,6569,M
+149,298,5,sandhill crane,6512,M
+150,345,6,tawny frogmouth,11794,XS
+151,218,6,ruddy duck,6138,3XL
+152,128,3,ruddy duck,11229,3XL
+153,198,6,eurasian eagle owl,5293,XS
+154,223,2,sandhill crane,11251,S
+155,96,6,superb starling,1803,2XL
+156,195,3,sandhill crane,1151,XL
+157,81,9,scarlet ibis,9333,XS
+158,307,0,sandhill crane,11203,M
+159,45,6,scarlet ibis,10059,M
+160,128,7,sandhill crane,8403,S
+161,159,9,ruddy duck,6573,3XL
+162,202,2,scarlet ibis,10293,2XL
+163,68,9,sandhill crane,4264,L
+164,88,9,scarlet ibis,7011,L
+165,16,7,black-crowned night heron,539,XS
+166,154,9,black-crowned night heron,9622,XS
+167,105,3,sandhill crane,11197,3XL
+168,214,5,scarlet ibis,8113,2XL
+169,235,3,tawny frogmouth,8193,2XL
+170,141,4,ruddy duck,6259,S
+171,172,1,Hooded Merganser,8371,XS
+172,347,1,Hooded Merganser,852,S
+173,189,1,ruddy duck,9123,XL
+174,108,7,eurasian eagle owl,2530,XS
+175,270,1,Hooded Merganser,11645,XS
+176,181,8,Hooded Merganser,7773,3XL
+177,49,2,superb starling,11023,3XL
+178,117,6,black-crowned night heron,11400,M
+179,299,8,black-crowned night heron,1287,XS
+180,204,4,scarlet ibis,4846,M
+181,309,1,Hooded Merganser,2752,XL
+182,30,4,sandhill crane,7541,3XL
+183,167,9,black-crowned night heron,3480,M
+184,296,6,tawny frogmouth,7599,L
+185,374,0,ruddy duck,6469,S
+186,260,0,sandhill crane,11726,XL
+187,229,0,scarlet ibis,9607,S
+188,362,8,scarlet ibis,4022,XL
+189,269,5,eurasian eagle owl,2146,M
+190,53,8,tawny frogmouth,6179,XL
+191,185,6,sandhill crane,5097,3XL
+192,302,9,Hooded Merganser,7154,L
+193,344,2,Hooded Merganser,5440,M
+194,318,6,black-crowned night heron,6909,XS
+195,170,2,scarlet ibis,1782,S
+196,346,0,scarlet ibis,7642,2XL
+197,28,5,Hooded Merganser,543,L
+198,11,8,ruddy duck,7532,3XL
+199,347,5,sandhill crane,11308,2XL
+200,28,3,eurasian eagle owl,3844,L
+201,104,2,sandhill crane,8288,XL
+202,252,7,black-crowned night heron,7269,2XL
+203,181,0,eurasian eagle owl,5102,XS
+204,10,4,ruddy duck,6421,M
+205,66,9,eurasian eagle owl,6700,XL
+206,343,2,tawny frogmouth,10036,XL
+207,224,0,Hooded Merganser,3056,XS
+208,118,5,sandhill crane,6510,S
+209,271,2,tawny frogmouth,8098,2XL
+210,18,9,sandhill crane,1235,XS
+211,324,8,tawny frogmouth,5584,L
+212,243,7,superb starling,9499,S
+213,292,2,sandhill crane,5466,XL
+214,322,6,Hooded Merganser,7775,L
+215,184,8,Hooded Merganser,999,L
+216,235,7,scarlet ibis,7759,L
+217,396,1,superb starling,2408,XS
+218,315,2,black-crowned night heron,754,S
+219,19,9,Hooded Merganser,8615,XS
+220,189,5,superb starling,7399,S
+221,182,6,tawny frogmouth,10721,XS
+222,290,2,scarlet ibis,11585,2XL
+223,116,8,tawny frogmouth,11161,M
+224,328,7,Hooded Merganser,6157,XL
+225,208,7,black-crowned night heron,816,S
+226,110,9,scarlet ibis,6220,XS
+227,305,1,black-crowned night heron,11008,S
+228,36,0,eurasian eagle owl,4019,XL
+229,209,5,superb starling,11360,M
+230,233,8,superb starling,9338,3XL
+231,326,8,scarlet ibis,3995,2XL
+232,314,6,Hooded Merganser,547,S
+233,41,8,eurasian eagle owl,2052,L
+234,31,6,superb starling,3051,L
+235,379,4,eurasian eagle owl,10391,2XL
+236,347,1,ruddy duck,10831,M
+237,126,5,sandhill crane,9398,2XL
+238,103,9,tawny frogmouth,11302,M
+239,366,9,ruddy duck,10162,XS
+240,85,4,sandhill crane,2861,2XL
+241,319,0,superb starling,5422,XL
+242,229,6,superb starling,7778,3XL
+243,190,3,sandhill crane,8226,3XL
+244,224,1,ruddy duck,7970,3XL
+245,175,1,tawny frogmouth,7602,L
+246,129,9,tawny frogmouth,7463,3XL
+247,113,3,Hooded Merganser,1471,S
+248,192,0,tawny frogmouth,10219,2XL
+249,374,7,Hooded Merganser,11963,M
+250,98,4,eurasian eagle owl,5269,L
+251,51,1,sandhill crane,4189,3XL
+252,273,3,sandhill crane,1029,3XL
+253,296,7,Hooded Merganser,3135,XS
+254,93,6,sandhill crane,5310,3XL
+255,171,5,superb starling,7516,3XL
+256,161,5,tawny frogmouth,3228,M
+257,310,7,Hooded Merganser,4952,3XL
+258,366,1,superb starling,8275,2XL
+259,358,5,Hooded Merganser,4759,XS
+260,69,2,sandhill crane,9341,2XL
+261,294,9,black-crowned night heron,3894,3XL
+262,310,4,black-crowned night heron,755,L
+263,129,5,eurasian eagle owl,5339,S
+264,42,0,eurasian eagle owl,2543,M
+265,118,0,superb starling,4051,S
+266,174,1,scarlet ibis,7914,XS
+267,59,3,black-crowned night heron,8668,XS
+268,126,6,scarlet ibis,4666,L
+269,91,1,eurasian eagle owl,4277,2XL
+270,95,1,eurasian eagle owl,4249,3XL
+271,286,4,superb starling,1118,L
+272,30,7,scarlet ibis,4102,XL
+273,331,3,sandhill crane,8683,M
+274,285,7,eurasian eagle owl,4936,L
+275,219,1,tawny frogmouth,691,XL
+276,63,2,eurasian eagle owl,7373,3XL
+277,281,3,sandhill crane,7734,2XL
+278,124,4,black-crowned night heron,2268,XL
+279,217,5,ruddy duck,11675,S
+280,194,4,tawny frogmouth,4547,L
+281,164,4,tawny frogmouth,8754,XS
+282,265,6,tawny frogmouth,6898,L
+283,248,7,ruddy duck,11751,XS
+284,47,9,eurasian eagle owl,7802,L
+285,182,1,superb starling,4082,M
+286,213,8,superb starling,8010,2XL
+287,355,7,eurasian eagle owl,10821,S
+288,243,7,ruddy duck,8172,L
+289,90,3,eurasian eagle owl,9702,L
+290,112,1,sandhill crane,7343,2XL
+291,291,2,superb starling,4691,2XL
+292,241,9,eurasian eagle owl,8057,S
+293,150,2,superb starling,8031,S
+294,253,7,tawny frogmouth,9032,S
+295,145,2,ruddy duck,8343,M
+296,235,8,eurasian eagle owl,4721,2XL
+297,104,3,ruddy duck,8586,XS
+298,25,5,Hooded Merganser,9428,2XL
+299,166,3,tawny frogmouth,1878,M
+300,255,4,scarlet ibis,7452,XL
+301,358,1,superb starling,547,2XL
+302,218,8,Hooded Merganser,2553,XL
+303,398,0,eurasian eagle owl,8188,2XL
+304,235,2,eurasian eagle owl,534,XL
+305,133,2,superb starling,4528,XS
+306,295,1,tawny frogmouth,10633,L
+307,82,9,superb starling,8349,XL
+308,189,3,sandhill crane,11538,XL
+309,79,0,tawny frogmouth,1663,M
+310,197,1,tawny frogmouth,9070,XL
+311,199,2,tawny frogmouth,3618,M
+312,351,1,tawny frogmouth,9707,XS
+313,106,5,superb starling,9829,XL
+314,236,1,tawny frogmouth,815,3XL
+315,115,2,eurasian eagle owl,8264,2XL
+316,192,1,eurasian eagle owl,8574,XS
+317,127,4,ruddy duck,1098,M
+318,213,3,ruddy duck,9692,S
+319,55,2,sandhill crane,4057,2XL
+320,380,5,tawny frogmouth,10511,L
+321,96,2,ruddy duck,10852,M
+322,262,6,superb starling,5602,2XL
+323,165,6,scarlet ibis,11085,XL
+324,326,5,black-crowned night heron,7426,XS
+325,170,7,tawny frogmouth,5054,XS
+326,150,4,eurasian eagle owl,7972,S
+327,189,0,scarlet ibis,11202,M
+328,292,6,black-crowned night heron,8239,L
+329,91,0,superb starling,10360,2XL
+330,150,4,sandhill crane,3936,S
+331,228,7,scarlet ibis,2575,M
+332,383,7,Hooded Merganser,5156,S
+333,223,6,eurasian eagle owl,6220,XS
+334,372,6,tawny frogmouth,10208,XL
+335,128,0,Hooded Merganser,8317,XS
+336,185,8,black-crowned night heron,10501,XS
+337,295,5,eurasian eagle owl,10331,M
+338,359,8,superb starling,1286,M
+339,324,3,Hooded Merganser,2306,XL
+340,356,4,Hooded Merganser,2609,XL
+341,255,1,black-crowned night heron,7419,L
+342,137,7,eurasian eagle owl,2772,2XL
+343,188,9,tawny frogmouth,11459,M
+344,35,7,ruddy duck,2533,2XL
+345,334,3,Hooded Merganser,7428,2XL
+346,338,9,scarlet ibis,11665,XL
+347,314,3,tawny frogmouth,6404,3XL
+348,110,8,eurasian eagle owl,8090,S
+349,216,7,black-crowned night heron,4930,XS
+350,400,8,Hooded Merganser,10120,M
+351,216,8,ruddy duck,6612,S
+352,19,9,sandhill crane,7062,S
+353,166,3,black-crowned night heron,9737,XS
+354,109,5,tawny frogmouth,2071,XS
+355,189,7,Hooded Merganser,7596,S
+356,266,2,ruddy duck,10768,S
+357,125,6,ruddy duck,10109,L
+358,65,7,tawny frogmouth,4888,2XL
+359,307,7,sandhill crane,9065,M
+360,305,5,Hooded Merganser,1576,XS
+361,380,3,ruddy duck,6043,XL
+362,336,8,superb starling,7862,XL
+363,340,6,tawny frogmouth,7411,3XL
+364,360,2,black-crowned night heron,7753,S
+365,271,2,eurasian eagle owl,1664,XS
+366,38,7,scarlet ibis,7291,2XL
+367,180,9,Hooded Merganser,5722,M
+368,152,0,tawny frogmouth,9998,2XL
+369,206,8,eurasian eagle owl,8134,2XL
+370,163,3,eurasian eagle owl,1881,M
+371,215,6,Hooded Merganser,1820,XS
+372,157,2,ruddy duck,2222,XL
+373,183,0,superb starling,6535,S
+374,395,8,sandhill crane,7696,XS
+375,395,4,black-crowned night heron,4894,XL
+376,303,0,sandhill crane,6499,XS
+377,310,5,tawny frogmouth,5326,XL
+378,15,4,Hooded Merganser,1099,XL
+379,269,8,superb starling,9522,M
+380,44,9,Hooded Merganser,3295,M
+381,290,3,eurasian eagle owl,4514,XS
+382,185,3,scarlet ibis,3361,L
+383,194,1,Hooded Merganser,2772,XS
+384,300,0,black-crowned night heron,11773,S
+385,28,5,black-crowned night heron,6921,XS
+386,142,1,black-crowned night heron,3241,XL
+387,11,5,black-crowned night heron,4940,L
+388,242,0,Hooded Merganser,7230,XS
+389,98,2,tawny frogmouth,2344,3XL
+390,88,2,Hooded Merganser,8886,XL
+391,172,7,scarlet ibis,3625,2XL
+392,254,9,Hooded Merganser,9586,XS
+393,130,8,ruddy duck,502,M
+394,217,5,scarlet ibis,9380,3XL
+395,265,2,ruddy duck,5713,S
+396,99,0,eurasian eagle owl,3803,L
+397,334,2,ruddy duck,2093,2XL
+398,219,1,scarlet ibis,6419,M
+399,186,6,superb starling,2054,M
+400,222,8,Hooded Merganser,7811,3XL
+401,146,9,black-crowned night heron,3731,2XL
+402,296,1,scarlet ibis,10060,M
+403,153,7,eurasian eagle owl,4255,M
+404,277,6,Hooded Merganser,11331,S
+405,151,9,sandhill crane,2096,S
+406,107,3,Hooded Merganser,10040,L
+407,246,1,eurasian eagle owl,7297,XL
+408,94,2,Hooded Merganser,10694,XL
+409,70,1,tawny frogmouth,9115,XS
+410,214,0,sandhill crane,10885,2XL
+411,61,0,superb starling,4473,M
+412,103,4,black-crowned night heron,1433,XS
+413,192,7,superb starling,4310,3XL
+414,130,0,ruddy duck,10032,3XL
+415,32,2,black-crowned night heron,8309,L
+416,355,3,black-crowned night heron,4406,XS
+417,352,5,ruddy duck,9673,3XL
+418,119,5,scarlet ibis,1791,L
+419,350,4,scarlet ibis,3294,3XL
+420,158,1,eurasian eagle owl,11592,M
+421,334,6,scarlet ibis,6111,S
+422,300,9,eurasian eagle owl,8092,S
+423,192,5,sandhill crane,11936,M
+424,20,9,eurasian eagle owl,11624,3XL
+425,333,4,tawny frogmouth,5319,M
+426,371,9,black-crowned night heron,6749,2XL
+427,200,4,Hooded Merganser,5393,XS
+428,308,4,tawny frogmouth,4662,M
+429,165,0,superb starling,3720,S
+430,189,3,black-crowned night heron,7911,S
+431,178,6,sandhill crane,7507,M
+432,174,0,Hooded Merganser,8170,S
+433,48,7,eurasian eagle owl,2302,2XL
+434,99,4,black-crowned night heron,7478,3XL
+435,340,4,tawny frogmouth,10417,L
+436,256,4,scarlet ibis,2019,3XL
+437,42,3,scarlet ibis,8560,XL
+438,381,6,ruddy duck,11175,XS
+439,246,9,tawny frogmouth,5977,3XL
+440,42,1,eurasian eagle owl,4976,XS
+441,388,1,eurasian eagle owl,7028,S
+442,115,2,black-crowned night heron,1135,3XL
+443,334,6,sandhill crane,9019,M
+444,39,7,sandhill crane,10613,L
+445,284,7,scarlet ibis,3589,XS
+446,353,9,superb starling,3425,M
+447,304,0,black-crowned night heron,10819,2XL
+448,380,3,superb starling,8285,XL
+449,373,6,ruddy duck,3852,XS
+450,321,2,tawny frogmouth,740,S
+451,197,7,black-crowned night heron,3421,XL
+452,289,1,Hooded Merganser,3722,2XL
+453,344,1,eurasian eagle owl,9461,2XL
+454,240,3,superb starling,3314,2XL
+455,338,4,superb starling,9810,S
+456,231,5,tawny frogmouth,5572,3XL
+457,356,0,scarlet ibis,3250,S
+458,335,2,eurasian eagle owl,1880,L
+459,45,4,eurasian eagle owl,9634,3XL
+460,361,5,eurasian eagle owl,873,L
+461,219,5,tawny frogmouth,10694,XS
+462,134,3,sandhill crane,4939,M
+463,273,7,ruddy duck,7231,2XL
+464,81,4,ruddy duck,3564,XL
+465,122,3,eurasian eagle owl,6719,XL
+466,194,5,scarlet ibis,5486,3XL
+467,320,7,black-crowned night heron,10253,M
+468,365,6,black-crowned night heron,9181,L
+469,278,9,black-crowned night heron,980,XL
+470,49,0,Hooded Merganser,6904,XL
+471,65,8,eurasian eagle owl,1889,S
+472,38,0,Hooded Merganser,642,3XL
+473,157,3,scarlet ibis,1000,2XL
+474,245,4,ruddy duck,9288,XL
+475,30,4,scarlet ibis,6390,3XL
+476,148,3,sandhill crane,4714,XS
+477,348,4,sandhill crane,3519,3XL
+478,58,7,eurasian eagle owl,8889,L
+479,303,2,tawny frogmouth,8593,S
+480,381,0,sandhill crane,4784,XL
+481,396,1,Hooded Merganser,1702,3XL
+482,181,4,superb starling,11492,L
+483,262,7,scarlet ibis,10311,M
+484,222,5,black-crowned night heron,5670,XL
+485,31,0,scarlet ibis,510,S
+486,127,0,black-crowned night heron,11317,L
+487,340,9,scarlet ibis,3487,XL
+488,47,0,sandhill crane,7396,3XL
+489,135,4,black-crowned night heron,2058,S
+490,245,7,sandhill crane,5845,XL
+491,40,6,ruddy duck,11809,M
+492,49,9,eurasian eagle owl,10354,XS
+493,256,0,tawny frogmouth,6991,3XL
+494,256,1,eurasian eagle owl,7295,S
+495,266,3,Hooded Merganser,595,M
+496,15,5,superb starling,3803,L
+497,199,2,ruddy duck,11869,XL
+498,69,2,tawny frogmouth,8720,S
+499,32,8,sandhill crane,6530,L
+500,337,0,sandhill crane,9657,L
+501,364,2,superb starling,6688,2XL
+502,107,2,Hooded Merganser,2180,M
+503,366,6,sandhill crane,4314,2XL
+504,385,1,eurasian eagle owl,7808,L
+505,242,6,tawny frogmouth,6466,L
+506,26,2,scarlet ibis,1228,2XL
+507,334,2,tawny frogmouth,2698,L
+508,24,8,tawny frogmouth,5059,M
+509,277,1,black-crowned night heron,7924,L
+510,89,1,scarlet ibis,2785,L
+511,374,3,sandhill crane,3650,M
+512,271,0,scarlet ibis,9650,2XL
+513,398,5,black-crowned night heron,1815,XS
+514,197,2,Hooded Merganser,4071,M
+515,38,0,black-crowned night heron,8243,XS
+516,210,7,scarlet ibis,10854,XS
+517,206,3,superb starling,1651,3XL
+518,284,8,sandhill crane,5200,S
+519,66,2,black-crowned night heron,11824,S
+520,366,6,superb starling,2510,2XL
+521,383,6,tawny frogmouth,3518,M
+522,113,6,black-crowned night heron,3206,M
+523,192,7,black-crowned night heron,9531,2XL
+524,97,9,eurasian eagle owl,6520,XL
+525,298,3,scarlet ibis,1056,XS
+526,296,9,Hooded Merganser,3010,3XL
+527,229,2,superb starling,10222,2XL
+528,195,5,eurasian eagle owl,7997,M
+529,321,4,tawny frogmouth,4840,3XL
+530,284,4,sandhill crane,9936,2XL
+531,43,2,eurasian eagle owl,5122,L
+532,94,9,tawny frogmouth,7994,L
+533,252,2,Hooded Merganser,6454,M
+534,113,6,eurasian eagle owl,6804,S
+535,177,2,sandhill crane,4860,S
+536,133,2,Hooded Merganser,3138,XS
+537,208,3,superb starling,6479,XL
+538,336,2,sandhill crane,6301,2XL
+539,81,8,eurasian eagle owl,11467,L
+540,190,8,eurasian eagle owl,1025,S
+541,132,3,Hooded Merganser,6899,3XL
+542,115,8,Hooded Merganser,11666,M
+543,334,7,ruddy duck,7783,3XL
+544,131,1,Hooded Merganser,7851,L
+545,174,6,tawny frogmouth,11485,3XL
+546,146,0,eurasian eagle owl,1587,3XL
+547,16,3,ruddy duck,7157,XS
+548,207,3,eurasian eagle owl,1675,2XL
+549,150,8,black-crowned night heron,10615,3XL
+550,173,0,superb starling,6706,2XL
+551,148,7,ruddy duck,10719,3XL
+552,325,7,superb starling,10813,XL
+553,134,7,black-crowned night heron,9884,XL
+554,116,0,ruddy duck,2802,L
+555,52,2,scarlet ibis,11511,2XL
+556,106,2,eurasian eagle owl,4369,S
+557,230,9,eurasian eagle owl,7219,M
+558,76,4,Hooded Merganser,11378,XS
+559,56,9,eurasian eagle owl,9400,M
+560,344,5,eurasian eagle owl,4877,3XL
+561,78,8,ruddy duck,7011,2XL
+562,147,6,sandhill crane,6618,S
+563,336,4,tawny frogmouth,9537,XS
+564,257,8,tawny frogmouth,2302,M
+565,344,6,sandhill crane,8084,XS
+566,39,8,sandhill crane,7332,L
+567,277,8,ruddy duck,3743,M
+568,20,5,Hooded Merganser,3200,3XL
+569,91,4,sandhill crane,10857,S
+570,366,1,ruddy duck,2922,M
+571,91,4,eurasian eagle owl,9504,XL
+572,51,1,black-crowned night heron,4507,S
+573,198,0,black-crowned night heron,10099,XL
+574,361,1,Hooded Merganser,5631,M
+575,91,0,Hooded Merganser,2251,XL
+576,142,2,superb starling,5139,L
+577,158,6,superb starling,1781,M
+578,311,0,eurasian eagle owl,1293,L
+579,361,2,sandhill crane,11675,XS
+580,219,0,scarlet ibis,4014,M
+581,213,4,Hooded Merganser,4304,M
+582,43,3,eurasian eagle owl,8936,2XL
+583,352,8,Hooded Merganser,1111,L
+584,168,5,black-crowned night heron,7395,L
+585,374,0,tawny frogmouth,1516,L
+586,25,1,tawny frogmouth,8155,3XL
+587,18,6,sandhill crane,1124,3XL
+588,52,5,superb starling,6470,XS
+589,399,8,tawny frogmouth,10333,L
+590,385,3,scarlet ibis,1704,XL
+591,352,7,black-crowned night heron,6816,2XL
+592,375,7,ruddy duck,1860,2XL
+593,327,8,superb starling,3890,M
+594,228,5,black-crowned night heron,9297,XL
+595,292,4,sandhill crane,5403,M
+596,80,5,superb starling,6978,L
+597,246,6,ruddy duck,3649,M
+598,205,0,black-crowned night heron,3573,XS
+599,332,2,superb starling,9924,L
+600,162,0,superb starling,11103,S
